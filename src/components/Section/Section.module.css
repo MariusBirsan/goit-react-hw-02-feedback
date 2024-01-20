@@ -1,0 +1,12 @@
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+h2 {
+  display: flex;
+  color: aliceblue;
+  justify-content: start;
+}
